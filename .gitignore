@@ -1,0 +1,10 @@
+$ git rm -r --cached .
+$ git rm -r --cached <.vs>
+$ git rm -r --cached <Add_VC>
+$ git rm --cached Debug
+
+.vs/
+Add_VC/
+Project1.vcxproj
+Debug/
+Log.txt
